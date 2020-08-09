@@ -1,0 +1,36 @@
+https://github.com/i58th/TerriblyTinyProject.git
+
+This is a c++ implemented program............
+
+all header file
+
+#include<bits/stdc++.h>
+#include<iostream>
+#include<sstream>
+#include<fstream> // file ke liye hai
+#include<stdio.h>
+#include<conio.h>
+#include<string.h>
+#include<time.h>
+#include<windows.h> // output screen buffer size ke liye hai
+#include<stdlib.h> // jump function ke liye use krte hai 
+
+
+input/output:
+10
+
+Your Selected N value: 10
+
+Your output is loading in few seconds...........
+
+1.  I 27
+2.  a 24
+3.  to 22
+4.  can 15
+5.  the 15
+6.  at 15
+7.  and 14
+8.  of 13
+9.  us 12
+10.  you 11
+                                                    Thank you very much for using this Software
